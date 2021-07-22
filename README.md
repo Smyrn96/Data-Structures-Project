@@ -1,1 +1,1 @@
-# Model-of-Twitter
+# Data Structures project
